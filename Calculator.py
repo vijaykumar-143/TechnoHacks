@@ -1,3 +1,8 @@
+'''
+Task:2 - Calculator
+Create a basic calculator that can perform basic arithmetic operations such as addition,
+subtraction, multiplication, and division.using functions
+'''
 # pip install tkinter
 import tkinter as tk
 import tkinter.messagebox
